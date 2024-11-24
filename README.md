@@ -3,23 +3,25 @@
 ## Welcome!
 Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data and Generative AI Specialist dedicated to leveraging AI technologies to make a positive impact in education and beyond. Take a look around to learn more about my background, certifications, and how to connect with me.
 
-Portfolio Highlights
-The Digital Shepherd
-An AI-powered platform supporting clergy and faith communities with personalized guidance, prayers, and theological insights. Focused on Anglican/Episcopalian traditions, it offers tools for sermon planning, worship, and church administration.
+# Welcome!  
+Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data and Generative AI Specialist leveraging AI technologies to make a positive impact in education and beyond. Explore my background, certifications, and projects below.
 
-Technical Skills Demonstrated: Data curation, prompt engineering, knowledge graph design, and custom graphic/web design.
-The Owl
-A mindfulness-focused AI assistant blending Dialectical Behavior Therapy (DBT) techniques with spiritual practices to support emotional well-being through custom meditations and mental health tools.
+---
 
-Technical Skills Demonstrated: Python programming, AI model fine-tuning, mental health-focused NLP, and chatbot UX design.
-What's Trending
-Purpose:
-A tool designed to simplify creating prompts for LLM evaluation and exploring social media trends. It:
+## Portfolio Highlights  
 
-Supports targeted, fact-based question generation.
-Offers flexible templates and styles for diverse analytical needs.
-Demonstrates integration with APIs and effective user interaction design.
-Technical Skills Demonstrated: LangChain framework, API integration, Python scripting, and user interface design.
+### **The Digital Shepherd**  
+An AI platform offering clergy personalized guidance, prayers, and theological insights. Focused on Anglican/Episcopalian traditions, it includes tools for sermon planning and church administration.  
+- **Skills:** Data curation, prompt engineering, knowledge graph design, graphic/web design.  
+
+### **The Owl**  
+A mindfulness AI assistant integrating DBT techniques with spiritual practices for custom meditations and emotional well-being tools.  
+- **Skills:** Python, AI model fine-tuning, mental health NLP, chatbot UX design.  
+
+### **What’s Trending**  
+A tool simplifying LLM prompt creation and exploring social media trends.  
+- **Features:** Fact-based question generation, flexible templates, API integration.  
+- **Skills:** LangChain, Python scripting, API integration, UI design.  
 
 ## About Me
 I specialize in generative AI development, prompt engineering, and educational resource creation. With experience at the intersection of technology, pedagogy, and leadership, I aim to simplify complex AI concepts and design solutions that empower individuals and teams.
