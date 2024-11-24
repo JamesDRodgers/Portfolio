@@ -1,0 +1,148 @@
+{
+ "chatbotId": "tEOhnnZqUJ4T6CZk7h_Nu",
+ "chatbotName": "The Digital Shepherd ",
+ "startDateStr": "2024-10-25T04:00:00.000Z",
+ "endDateStr": "2024-11-25T04:59:59.999Z",
+ "conversations": [
+  {
+   "id": "c10335af-3e5f-4726-bbb0-f4f410a93890",
+   "created_at": "2024-08-22T14:14:20.719274+00:00",
+   "chatbot_id": "tEOhnnZqUJ4T6CZk7h_Nu",
+   "form_submission": null,
+   "source": "Widget or Iframe",
+   "min_score": 0.788426524813567,
+   "country": "United States",
+   "messages": [
+    {
+     "role": "assistant",
+     "content": "Hello! I’m here to support your ministry with confidence and compassion. Whether you need help with outreach programs, church events, or spiritual guidance, I’m ready to assist. My goal is to offer friendly, efficient, and empathetic support to ensure your ministry thrives and your community is well-served. Together, we can enhance your ministry and strengthen our community in faith and service. Let's get started!"
+    },
+    {
+     "id": "b28bfcb3-d8a9-4393-a432-cd936bd045cd",
+     "role": "user",
+     "content": "You are the rector of a mid-size Episcopal church in zip code 72801. "
+    },
+    {
+     "id": "62d02c90-ff7a-4a69-961a-85b886c7d894",
+     "role": "assistant",
+     "score": 0.7884265248135673,
+     "content": "It sounds like you're involved in a vibrant community! As a rector, you have the opportunity to guide your congregation in spiritual growth and community engagement. If you have any specific questions or need assistance with your ministry, feel free to ask. I'm here to help!"
+    },
+    {
+     "id": "e7ca48b1-89a4-42a6-9c1c-d131e3e60872",
+     "role": "user",
+     "content": "Can you offer ideas about an even to bless the animals around the Feast of St. francis?"
+    },
+    {
+     "id": "419dfc70-74c4-42dc-ae3b-fc5030237bf3",
+     "role": "assistant",
+     "score": 0.8361538459604309,
+     "content": "Certainly! Hosting a Blessing of the Animals event around the Feast of St. Francis can be a wonderful way to engage your community and celebrate creation. Here are some ideas:\n\n1. **Event Planning**: Choose a date close to St. Francis Day (October 4th) and select a suitable outdoor location, such as a church garden or park, to accommodate pets and their owners.\n\n2. **Promotion**: Create flyers and social media posts to invite the community. Highlight the event's welcoming nature and its focus on celebrating all creatures.\n\n3. **Liturgy and Prayers**: Prepare a simple liturgy that includes prayers for animals and the environment. You can find resources and prayers specifically for this occasion.\n\n4. **Activities**: Consider including activities like a pet parade, a photo booth, or a small petting zoo to make the event more engaging for families.\n\n5. **Community Involvement**: Invite local animal shelters or veterinarians to participate, offering information on pet care and adoption opportunities.\n\n6. **Safety and Logistics**: Ensure there are guidelines for pet safety and comfort, such as providing water stations and designated areas for different types of animals.\n\nWould you like more detailed guidance on any of these aspects?"
+    },
+    {
+     "id": "6b028c4a-b5c3-4009-9ab8-f5f0bc57935b",
+     "role": "user",
+     "content": "What kind of liturgy recommend?"
+    },
+    {
+     "id": "24ecb8b5-7a17-4fd8-a4f6-64d1824f78ba",
+     "role": "assistant",
+     "score": 0.8801820156654946,
+     "content": "For a Blessing of the Animals service, you can create a liturgy that reflects the themes of creation, stewardship, and gratitude. Here's a simple outline you might consider:\n\n1. **Welcome and Opening Prayer**:\n   - Begin with a warm welcome to all participants and their pets.\n   - Offer an opening prayer that acknowledges the joy and companionship animals bring to our lives.\n\n2. **Scripture Reading**:\n   - Choose a passage that highlights creation and the relationship between humans and animals. Genesis 1:20-25 or Psalm 104:24-30 are great options.\n\n3. **Reflection**:\n   - Share a brief reflection on St. Francis of Assisi's love for animals and his teachings on caring for creation.\n\n4. **Blessing of the Animals**:\n   - Invite participants to bring their pets forward for a blessing.\n   - Use a simple blessing such as: \"May you be blessed in the name of the Father, the Son, and the Holy Spirit. May you and your human companions enjoy life together and find joy in the world God has made.\"\n\n5. **Prayers of the People**:\n   - Include prayers for the well-being of all animals, for those who care for them, and for the protection of the environment.\n\n6. **Closing Hymn and Benediction**:\n   - End with a hymn celebrating creation, such as \"All Creatures of Our God and King.\"\n   - Offer a benediction that sends participants forth with a renewed commitment to care for all living things.\n\nFeel free to adapt this outline to suit your community's needs and traditions. If you need more specific prayers or readings, let me know!"
+    },
+    {
+     "id": "3db8f4d6-45e8-4c17-9cff-a2180f55ef30",
+     "role": "user",
+     "content": "list defintions of membership in Episcopal church"
+    },
+    {
+     "id": "a2892ff8-305a-4a52-b52e-e6deb4fb5b09",
+     "role": "assistant",
+     "score": 0.8240266006250417,
+     "content": "In the Episcopal Church, membership can be understood in several ways, reflecting different levels of involvement and commitment. Here are some key definitions:\n\n1. **Baptized Member**: Anyone who has received the sacrament of baptism in the Episcopal Church or another Christian denomination is considered a baptized member. Baptism is the foundational rite of initiation into the Christian faith.\n\n2. **Confirmed Member**: A baptized person who has undergone the rite of confirmation, where a bishop lays hands on the individual to strengthen their faith and commitment to the church. Confirmation is a public affirmation of faith and a deeper commitment to the Episcopal Church.\n\n3. **Communicant**: A member who has received Holy Communion at least three times in the preceding year. Communicants are considered active participants in the sacramental life of the church.\n\n4. **Communicant in Good Standing**: A communicant who is faithful in corporate worship and has been a regular contributor to the church's financial support. This status often relates to eligibility for certain roles or responsibilities within the church.\n\n5. **Voting Member**: Typically, a confirmed communicant in good standing who is eligible to vote in parish meetings or elections. Specific requirements may vary by parish or diocese.\n\nIf you need more detailed information or have specific questions about membership, feel free to ask!"
+    },
+    {
+     "id": "26b058b7-5d51-4d1f-b0fc-7e0f64d58bcd",
+     "role": "user",
+     "content": "Which feast days take priority over Sunday lessons?"
+    },
+    {
+     "id": "d243ae5e-eb30-4719-9b7e-f423e3481495",
+     "role": "assistant",
+     "score": 0.8622046535611613,
+     "content": "In the Episcopal Church, certain feast days take precedence over the usual Sunday lessons. These are known as Principal Feasts and include:\n\n1. **Easter Day**\n2. **Ascension Day**\n3. **The Day of Pentecost**\n4. **Trinity Sunday**\n5. **All Saints’ Day (November 1)**\n6. **Christmas Day (December 25)**\n7. **The Epiphany (January 6)**\n\nAdditionally, the following feasts, when they fall on a Sunday, take precedence:\n\n- **The Holy Name (January 1)**\n- **The Presentation (February 2)**\n- **The Transfiguration (August 6)**\n\nThese feasts are central to the Christian faith and are celebrated with special liturgies and readings that reflect their significance. If you have any more questions about the liturgical calendar or specific feast days, feel free to ask!"
+    },
+    {
+     "id": "dd76573e-a7f6-4d1d-a1c6-304f7e9e312b",
+     "role": "user",
+     "content": "Which takes precedence the Sunday lesson or the feast of St. Michael and All Angels?"
+    },
+    {
+     "id": "440cae98-866b-44a1-b6d3-a346d1d6e7c1",
+     "role": "assistant",
+     "score": 0.8705621313790879,
+     "content": "The Feast of St. Michael and All Angels, celebrated on September 29, is considered a Major Feast in the Episcopal Church. However, it does not take precedence over a Sunday unless it is specifically transferred to a Sunday with the bishop's permission for urgent and sufficient reason. \n\nTypically, if St. Michael and All Angels falls on a weekday, it is celebrated on that day. If it falls on a Sunday, the usual Sunday lessons and liturgy would take precedence unless otherwise directed by the bishop.\n\nIf you have any more questions or need further clarification, feel free to ask!"
+    },
+    {
+     "id": "48ff4534-d7bd-4b8c-b15d-135daa2b58fb",
+     "role": "user",
+     "content": "What are the RCL reading for this Sunday?"
+    },
+    {
+     "id": "0037abc5-8268-49ff-8a1c-75f680f7774a",
+     "role": "assistant",
+     "score": 0.9005273087796257,
+     "content": "I'm sorry, but I can't provide the specific Revised Common Lectionary (RCL) readings for this upcoming Sunday. However, you can easily find the RCL readings for any given Sunday by checking the Episcopal Church's official website or consulting a lectionary resource. If you have any other questions or need assistance with something else, feel free to let me know!"
+    },
+    {
+     "id": "0bf3c265-b93d-4811-b1a0-db0667ef78b5",
+     "role": "user",
+     "content": "Please generate 10 discussion questions for a bible study group based on the readings below.\n\nSixteenth Sunday after Pentecost\nProper 18\n\nThe Collect:\n\nGrant us, O Lord, to trust in you with all our hearts; for, as you always resist the proud who confide in their own strength, so you never forsake those who make their boast of your mercy; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.\n\nTrack 1\nTrack 2\nOld Testament: Proverbs 22:1-2, 8-9, 22-23\n\n1A good name is to be chosen rather than great riches,\nand favor is better than silver or gold.\n2The rich and the poor have this in common:\nthe Lord is the maker of them all.\n8Whoever sows injustice will reap calamity,\nand the rod of anger will fail.\n9Those who are generous are blessed,\nfor they share their bread with the poor.\n22Do not rob the poor because they are poor,\nor crush the afflicted at the gate;\n23for the Lord pleads their cause\nand despoils of life those who despoil them.\n\nPsalm: Psalm 125\n\n1 Those who trust in the Lord are like Mount Zion, *\n       which cannot be moved, but stands fast for ever.\n2 The hills stand about Jerusalem; *\n       so does the Lord stand round about his people,\n       from this time forth for evermore.\n3 The scepter of the wicked shall not hold sway over the land alloted to the just, *\n       so that the just shall not put their hands to evil.\n4 Show your goodness, O Lord, to those who are good *\n       and to those who are true of heart.\n5 As for those who turn aside to crooked ways,\n   the Lord will lead them away with the evildoers; *\n       but peace be upon Israel.\n\nOld Testament: Isaiah 35:4-7a\n\n4Say to those who are of a fearful heart, “Be strong, do not fear! Here is your God. He will come with vengeance, with terrible recompense. He will come and save you.”\n\n5Then the eyes of the blind shall be opened, and the ears of the deaf unstopped; 6then the lame shall leap like a deer, and the tongue of the speechless sing for joy. For waters shall break forth in the wilderness, and streams in the desert; 7the burning sand shall become a pool, and the thirsty ground springs of water.\n\nPsalm: Psalm 146\n\n1 Hallelujah!\n   Praise the Lord, O my soul! *\n       I will praise the Lord as long as I live;\n       I will sing praises to my God while I have my being.\n2 Put not your trust in rulers, nor in any child of earth, *\n       for there is no help in them.\n3 When they breathe their last, they return to earth, *\n       and in that day their thoughts perish.\n4 Happy are they who have the God of Jacob for their help! *\n       whose hope is in the Lord their God;\n5 Who made heaven and earth, the seas, and all that is in them; *\n       who keeps his promise for ever;\n6 Who gives justice to those who are oppressed, *\n       and food to those who hunger.\n7 The Lord sets the prisoners free;\n   the Lord opens the eyes of the blind; *\n       the Lord lifts up those who are bowed down;\n8 The Lord loves the righteous;\n   the Lord cares for the stranger; *\n       he sustains the orphan and widow,\n       but frustrates the way of the wicked.\n9 The Lord shall reign for ever, *\n       your God, O Zion, throughout all generations.\n       Hallelujah!\n\nEpistle: James 2:1-10, [11-13], 14-17\n\n1My brothers and sisters, do you with your acts of favoritism really believe in our glorious Lord Jesus Christ? 2For if a person with gold rings and in fine clothes comes into your assembly, and if a poor person in dirty clothes also comes in, 3and if you take notice of the one wearing the fine clothes and say, “Have a seat here, please,” while to the one who is poor you say, “Stand there,” or, “Sit at my feet,” 4have you not made distinctions among yourselves, and become judges with evil thoughts?5Listen, my beloved brothers and sisters. Has not God chosen the poor in the world to be rich in faith and to be heirs of the kingdom that he has promised to those who love him? 6But you have dishonored the poor. Is it not the rich who oppress you? Is it not they who drag you into court? 7Is it not they who blaspheme the excellent name that was invoked over you?\n\n8You do well if you really fulfill the royal law according to the scripture, “You shall love your neighbor as yourself.” 9But if you show partiality, you commit sin and are convicted by the law as transgressors. 10For whoever keeps the whole law but fails in one point has become accountable for all of it.[ 11For the one who said, “You shall not commit adultery,” also said, “You shall not murder.” Now if you do not commit adultery but if you murder, you have become a transgressor of the law. 12So speak and so act as those who are to be judged by the law of liberty. 13For judgment will be without mercy to anyone who has shown no mercy; mercy triumphs over judgment.]\n\n14What good is it, my brothers and sisters, if you say you have faith but do not have works? Can faith save you? 15If a brother or sister is naked and lacks daily food, 16and one of you says to them, “Go in peace; keep warm and eat your fill,” and yet you do not supply their bodily needs, what is the good of that? 17So faith by itself, if it has no works, is dead.\n\nGospel: Mark 7:24-37\n\n24From there he set out and went away to the region of Tyre. He entered a house and did not want anyone to know he was there. Yet he could not escape notice, 25but a woman whose little daughter had an unclean spirit immediately heard about him, and she came and bowed down at his feet.26Now the woman was a Gentile, of Syrophoenician origin. She begged him to cast the demon out of her daughter. 27He said to her, “Let the children be fed first, for it is not fair to take the children’s food and throw it to the dogs.” 28But she answered him, “Sir, even the dogs under the table eat the children’s crumbs.” 29Then he said to her, “For saying that, you may go—the demon has left your daughter.” 30So she went home, found the child lying on the bed, and the demon gone.\n\n31Then he returned from the region of Tyre, and went by way of Sidon towards the Sea of Galilee, in the region of the Decapolis. 32They brought to him a deaf man who had an impediment in his speech; and they begged him to lay his hand on him. 33He took him aside in private, away from the crowd, and put his fingers into his ears, and he spat and touched his tongue. 34Then looking up to heaven, he sighed and said to him, “Ephphatha,” that is, “Be opened.” 35And immediately his ears were opened, his tongue was released, and he spoke plainly. 36Then Jesus ordered them to tell no one; but the more he ordered them, the more zealously they proclaimed it. 37They were astounded beyond measure, saying, “He has done everything well; he even makes the deaf to hear and the mute to speak.”"
+    },
+    {
+     "id": "b1743e7f-42b6-43e9-a5a6-8ada0fa3da78",
+     "role": "assistant",
+     "score": 0.8832124776804533,
+     "content": "Here are ten discussion questions for your Bible study group based on the readings for the Sixteenth Sunday after Pentecost, Proper 18:\n\n1. **Proverbs 22:1-2, 8-9, 22-23**: How do these verses challenge our society's views on wealth and status? What does it mean to have a \"good name\" in today's world?\n\n2. **Psalm 125**: In what ways can we cultivate trust in the Lord, as described in this psalm? How does this trust impact our daily lives?\n\n3. **Isaiah 35:4-7a**: How can we find strength and courage in times of fear, as encouraged in this passage? What role does faith play in overcoming fear?\n\n4. **Psalm 146**: Why is it important to place our trust in God rather than in earthly rulers or leaders? How does this perspective shape our actions and decisions?\n\n5. **James 2:1-10, 14-17**: How do we see favoritism and partiality manifest in our communities today? How can we actively work to love our neighbors as ourselves?\n\n6. **James 2:14-17**: What is the relationship between faith and works according to James? How can we ensure that our faith is alive and active?\n\n7. **Mark 7:24-30**: How does the interaction between Jesus and the Syrophoenician woman challenge our understanding of faith and persistence? What can we learn from her response to Jesus?\n\n8. **Mark 7:31-37**: What does the healing of the deaf man reveal about Jesus' compassion and power? How can we apply this understanding to our own lives and interactions with others?\n\n9. **The Collect**: How does the Collect for this Sunday encourage us to trust in God's mercy rather than our own strength? In what areas of your life do you need to rely more on God's mercy?\n\n10. **General Reflection**: How do these readings collectively speak to the themes of justice, mercy, and faith? How can we embody these values in our personal and communal lives?\n\nFeel free to adapt these questions to better suit your group's needs and interests. Enjoy your discussion!"
+    },
+    {
+     "id": "42e0c711-2acc-4560-8051-fe157bfbe9b2",
+     "role": "user",
+     "content": "clergy housing requirements"
+    },
+    {
+     "id": "855478d0-e842-4739-b288-e1770c305cfc",
+     "role": "assistant",
+     "score": 0.8078621272804715,
+     "content": "Clergy housing requirements can vary depending on the denomination, diocese, or specific church policies. However, here are some general considerations and requirements often associated with clergy housing:\n\n1. **Parsonage/Rectory**: Many churches provide a parsonage or rectory, which is a house owned by the church for the clergy to live in. This arrangement often includes utilities and maintenance as part of the compensation package.\n\n2. **Housing Allowance**: If a parsonage is not provided, clergy may receive a housing allowance. This is a designated portion of their salary to cover housing expenses, such as rent or mortgage payments, utilities, and maintenance.\n\n3. **Tax Considerations**: In the United States, the housing allowance for clergy is typically exempt from federal income tax, though it is subject to self-employment tax. It's important for clergy to properly document and report housing expenses to qualify for this exemption.\n\n4. **Location and Suitability**: The provided housing should be reasonably close to the church to facilitate the clergy's duties. It should also be suitable for the clergy's family size and needs.\n\n5. **Maintenance and Upkeep**: Responsibilities for maintenance and repairs should be clearly defined, whether they fall to the church or the clergy. This includes routine upkeep and any necessary improvements.\n\n6. **Privacy and Boundaries**: It's important to establish boundaries to ensure the clergy's home is a private and personal space, separate from their professional responsibilities.\n\nIf you have specific questions about clergy housing in your context, it may be helpful to consult your church's policies or speak with your diocese or denominational leadership."
+    },
+    {
+     "id": "018af1ac-1fb4-4545-99bb-118f545fa184",
+     "role": "user",
+     "content": "Does the episcopal church have a specific requirement for clergy housing"
+    },
+    {
+     "id": "8c7f0963-c189-4e0e-be72-47f6038da2ad",
+     "role": "assistant",
+     "score": 0.8031487695652162,
+     "content": "The Episcopal Church does not have a universal, specific requirement for clergy housing that applies to all dioceses and parishes. Instead, housing arrangements for clergy are typically determined at the diocesan or parish level, taking into account local needs and resources. Here are some common practices:\n\n1. **Parsonage/Rectory**: Some parishes provide a parsonage or rectory for their clergy. This is a house owned by the church where the clergy and their family can live.\n\n2. **Housing Allowance**: If a parsonage is not provided, clergy may receive a housing allowance as part of their compensation package. This allowance is intended to cover housing-related expenses such as rent or mortgage payments.\n\n3. **Diocesan Guidelines**: Many dioceses have guidelines or policies regarding clergy compensation, including housing. These guidelines can vary, so it's important to consult with your specific diocese for detailed information.\n\n4. **Negotiation and Agreement**: Housing arrangements are often part of the negotiation process when a clergy member is called to a parish. The terms are typically outlined in the letter of agreement or contract between the clergy and the parish.\n\nFor precise information, it's best to refer to your diocese's policies or speak with diocesan leadership. If you have more questions or need further assistance, feel free to ask!"
+    },
+    {
+     "id": "5db8c840-4e37-4a61-9aef-19b3b6f04f98",
+     "role": "user",
+     "content": "state the theology of the resurrection"
+    },
+    {
+     "id": "b01f07f2-4776-4d22-8818-8679bf449041",
+     "role": "assistant",
+     "score": 0.8170025575185192,
+     "content": "The theology of the resurrection is a central tenet of Christian faith, emphasizing the belief that Jesus Christ rose from the dead on the third day after his crucifixion. Here are some key aspects of this theology:\n\n1. **Victory Over Death**: The resurrection signifies Christ's victory over death and sin, offering believers the hope of eternal life. It demonstrates that death is not the end, but a passage to a new, transformed life with God.\n\n2. **Foundation of Christian Faith**: The resurrection is foundational to Christian faith, as it validates Jesus' divinity and the truth of his teachings. It is celebrated as the cornerstone of Christian belief, particularly during Easter.\n\n3. **Promise of New Life**: Through the resurrection, believers are promised new life in Christ. It symbolizes spiritual renewal and the possibility of transformation for individuals and communities.\n\n4. **Hope and Assurance**: The resurrection provides hope and assurance to Christians that they, too, will experience resurrection and eternal life. It is a source of comfort in the face of suffering and death.\n\n5. **Participation in Christ's Resurrection**: Christians believe that through baptism and faith, they participate in Christ's death and resurrection. This participation calls them to live a life reflective of the resurrection's transformative power.\n\n6. **Eschatological Significance**: The resurrection points to the ultimate fulfillment of God's kingdom, where all creation will be renewed, and God's justice and peace will prevail.\n\nThese theological aspects underscore the profound impact of the resurrection on Christian doctrine, worship, and daily living. If you have more questions or need further exploration of this topic, feel free to ask!"
+    }
+   ],
+   "account_id": "860129ab-a0ce-4bbd-bda2-203501d7cfa1",
+   "last_message_at": "2024-11-02T16:36:21.122166+00:00",
+   "sentiment": null,
+   "topics": []
+  }
+ ]
+}
