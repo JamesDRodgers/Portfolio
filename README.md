@@ -16,12 +16,12 @@ An AI platform offering clergy personalized guidance, prayers, and theological i
 
 ### **The Owl**  
 A mindfulness AI assistant integrating DBT techniques with spiritual practices for custom meditations and emotional well-being tools.  
-- **Skills:** Python, AI model fine-tuning, mental health NLP, chatbot UX design.  
+- **Skills:** Python, Data curration, AI model fine-tuning, mental health NLP, chatbot UX design.  
 
 ### **What’s Trending**  
 A tool simplifying LLM prompt creation and exploring social media trends.  
 - **Features:** Fact-based question generation, flexible templates, API integration.  
-- **Skills:** LangChain, Python scripting, API integration, UI design.  
+- **Skills:** LangChain, Python scripting, API integration.
 
 ## About Me
 I specialize in generative AI development, prompt engineering, and educational resource creation. With experience at the intersection of technology, pedagogy, and leadership, I aim to simplify complex AI concepts and design solutions that empower individuals and teams.
