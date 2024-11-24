@@ -1,0 +1,126 @@
+{
+  "CBT_Examples": [
+    {
+      "user": "I always feel like I'm not good enough.",
+      "chatbot_response": "It’s common to feel like that, but it’s important to challenge those thoughts. What evidence do you have that contradicts this feeling? Let’s look at past situations where you succeeded."
+    },
+    {
+      "user": "I'm overwhelmed with everything I need to do.",
+      "chatbot_response": "When things feel overwhelming, breaking tasks down helps. What’s one small thing you could do today that would feel like progress?"
+    },
+    {
+      "user": "I keep thinking that I'm going to fail.",
+      "chatbot_response": "That’s a tough thought to carry. Let’s look at some of the times you’ve succeeded. What strengths helped you in those moments?"
+    },
+    {
+      "user": "I keep avoiding things that make me anxious.",
+      "chatbot_response": "Avoidance can feel protective, but it often makes anxiety stronger. What’s one small step you could take to face something you’ve been avoiding, just for a few minutes?"
+    },
+    {
+      "user": "I feel like everything is going wrong.",
+      "chatbot_response": "It’s easy to focus on everything that’s wrong, but let’s practice looking for the positives. What’s one thing, however small, that’s going right?"
+    },
+    {
+      "user": "I don’t know how to stop overthinking.",
+      "chatbot_response": "Overthinking can be exhausting. Let’s use a technique from CBT called 'thought-stopping.' When you notice your mind spiraling, try to say ‘stop’ and redirect your focus to something grounding."
+    },
+    {
+      "user": "I feel like I can’t trust anyone.",
+      "chatbot_response": "Trust is built over time. What small steps could you take to build trust with someone, or how could you allow others to show you that they’re trustworthy?"
+    },
+    {
+      "user": "I feel so stressed about work.",
+      "chatbot_response": "Stress often comes from feeling out of control. Let’s break down what’s stressing you out into smaller, more manageable parts. Which task feels the most urgent?"
+    },
+    {
+      "user": "I'm afraid of making mistakes.",
+      "chatbot_response": "Mistakes are part of learning and growing. Think about a time you made a mistake and learned from it. What did you discover about yourself or the situation?"
+    },
+    {
+      "user": "I don’t think I’ll ever feel happy.",
+      "chatbot_response": "It can feel like happiness is out of reach, but remember that happiness comes in small moments. What’s something today that made you smile, even briefly?"
+    },
+    {
+      "user": "I feel like no one understands me.",
+      "chatbot_response": "It can be painful to feel misunderstood. What’s one thing you could share with someone to help them understand your experience better?"
+    },
+    {
+      "user": "I’m always so critical of myself.",
+      "chatbot_response": "It’s important to be kind to yourself. What’s one thing you could say to yourself today that’s affirming and compassionate, rather than critical?"
+    },
+    {
+      "user": "I always think the worst will happen.",
+      "chatbot_response": "That’s called catastrophizing. Let’s practice reality testing. What’s a more balanced way to look at the situation? What’s the most likely outcome?"
+    },
+    {
+      "user": "I feel like I’m stuck in a rut.",
+      "chatbot_response": "Feeling stuck can be frustrating. Let’s start by identifying one small change you could make to shake things up, like trying a new activity or setting a new goal."
+    },
+    {
+      "user": "I keep replaying past mistakes in my head.",
+      "chatbot_response": "It’s easy to get caught in past mistakes, but it’s important to practice self-forgiveness. What’s one lesson you learned from those mistakes that you can carry forward?"
+    }
+  ],
+  "DBT_Examples": [
+    {
+      "user": "I’m so angry right now.",
+      "chatbot_response": "Anger can be overwhelming. One technique from DBT is 'TIPP' (Temperature, Intense exercise, Paced breathing, and Progressive relaxation). Would you like to try a quick breathing exercise together?"
+    },
+    {
+      "user": "I feel so much sadness, I don’t know how to deal with it.",
+      "chatbot_response": "Sadness can be heavy, but radical acceptance teaches us to accept emotions as they come. What would it look like to just sit with that sadness for a moment, without needing to change it?"
+    },
+    {
+      "user": "I can’t stop feeling nervous about the future.",
+      "chatbot_response": "That’s called anticipatory anxiety. Let’s practice focusing on the present moment with a mindfulness technique. Can you name five things you can see around you right now?"
+    },
+    {
+      "user": "I’m constantly worrying about things I can’t control.",
+      "chatbot_response": "It’s hard to let go of things beyond your control. Radical acceptance can help. What’s something you can accept today, even if it feels uncomfortable?"
+    },
+    {
+      "user": "I feel like I’m always in conflict with people.",
+      "chatbot_response": "In DBT, we use the DEAR MAN technique for assertive communication. Would you like to practice using it to express your needs in a relationship?"
+    },
+    {
+      "user": "I keep pushing people away.",
+      "chatbot_response": "Pushing people away can be a defense mechanism. How might you begin to practice vulnerability in small steps to rebuild connection with others?"
+    },
+    {
+      "user": "I have a hard time saying no to people.",
+      "chatbot_response": "Saying no is an important skill in DBT. Would you like to practice saying no in a kind but firm way, setting boundaries that protect your well-being?"
+    },
+    {
+      "user": "I feel overwhelmed by my emotions.",
+      "chatbot_response": "It’s important to observe your emotions without judgment. DBT teaches 'Observe and Describe.' Can you describe what you’re feeling without labeling it as good or bad?"
+    },
+    {
+      "user": "I can’t seem to let go of my fear.",
+      "chatbot_response": "Fear often holds us back. In DBT, we focus on 'Radical Acceptance.' What would it look like to accept your fear as it is, without trying to change it right away?"
+    },
+    {
+      "user": "I feel like no one understands me.",
+      "chatbot_response": "It’s frustrating to feel misunderstood. Let’s practice DEAR MAN. What’s one way you can express your feelings and needs to someone in your life?"
+    },
+    {
+      "user": "I feel like I'm not in control of my emotions.",
+      "chatbot_response": "Emotional regulation is a skill you can learn. One DBT strategy is 'Opposite Action.' Can you think of a time when doing the opposite of your usual response helped you feel better?"
+    },
+    {
+      "user": "I feel disconnected from everything.",
+      "chatbot_response": "Feeling disconnected can be a sign of emotional dysregulation. One DBT skill is 'Wise Mind.' What’s one balanced thought you can connect with in this moment?"
+    },
+    {
+      "user": "I get upset when things don’t go my way.",
+      "chatbot_response": "It’s tough when expectations don’t align with reality. In DBT, we practice 'Radical Acceptance.' What’s one thing you can accept about the situation that’s out of your control?"
+    },
+    {
+      "user": "I feel like I'm always on edge.",
+      "chatbot_response": "When we’re on edge, it’s helpful to practice grounding. Would you like to try a grounding exercise where you focus on your senses? Let’s start with what you can hear around you."
+    },
+    {
+      "user": "I feel really disconnected spiritually.",
+      "chatbot_response": "Spiritual disconnection often stems from feeling trapped by the mind’s limitations. Where do you feel blocked, and how might you begin to cultivate inner freedom?"
+    }
+  ]
+}
