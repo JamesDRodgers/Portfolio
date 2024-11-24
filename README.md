@@ -36,4 +36,4 @@ I specialize in generative AI development, prompt engineering, and educational r
 Let's connect! Feel free to reach out or explore more of my work:
 * **Email:** jdevin.rodgers@gmail.com
 * **GitHub:** JamesRodgersPortfolio
-* **LinkedIn:** jdevinrodgers# My Portfolio
+
