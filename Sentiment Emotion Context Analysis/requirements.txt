@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+torch
+transformers
+anthropic
+dotenv
+numpy
+reportlab
