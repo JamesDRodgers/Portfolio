@@ -1,7 +1,7 @@
 # James Rodgers Portfolio
 
 ## Welcome!
-Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data and Generative AI Specialist dedicated to leveraging AI technologies to make a positive impact in education and beyond. Take a look around to learn more about my background, certifications, and how to connect with me.
+Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data ai tutor at xAI and a generative AI enthusiast. Take a look around to learn more about my background, certifications, and how to connect with me.
 
 # Welcome!  
 Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data and Generative AI Specialist leveraging AI technologies to make a positive impact in education and beyond. Explore my background, certifications, and projects below.
