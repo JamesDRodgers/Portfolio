@@ -1,39 +1,46 @@
-# James Rodgers Portfolio
+James Rodgers Portfolio
+Welcome!
+Hi there — and thanks for visiting. I'm James Rodgers, a Human Data AI Tutor at xAI and someone who believes that technology should always serve people, not the other way around. With over 15 years of experience working across education, technology, and community leadership, I’m passionate about creating AI tools that are practical, ethical, and rooted in human dignity.
 
-## Welcome!
-Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data ai tutor at xAI and a generative AI enthusiast. Take a look around to learn more about my background, certifications, and how to connect with me.
+Feel free to take a look around — I’d love to connect.
 
-# Welcome!  
-Hi there! Welcome to my portfolio. I'm James Rodgers, a Human Data and Generative AI Specialist leveraging AI technologies to make a positive impact in education and beyond. Explore my background, certifications, and projects below.
+About Me
+When I first began studying AI, I knew I didn’t just want to build tools — I wanted to build tools that made people’s lives better.
+Today, I specialize in generative AI development, prompt engineering, and solution design, with a strong focus on accessibility, emotional intelligence, and community impact.
 
----
+Whether I'm developing recovery support platforms, designing AI literacy courses for spiritual leaders, or helping nonprofits make data-driven decisions, I carry the same belief:
+Technology should lift people up, not leave them behind.
 
-## Portfolio Highlights  
+Selected Projects
+San Francisco Recovery AI Agent — Connected Bay Area users to 500+ local recovery meetings and mental health resources, integrating harm reduction principles and 12-step literature through RAG (retrieval-augmented generation) models.
 
-### **The Digital Shepherd**  
-An AI platform offering clergy personalized guidance, prayers, and theological insights. Focused on Anglican/Episcopalian traditions, it includes tools for sermon planning and church administration.  
-- **Skills:** Data curation, prompt engineering, knowledge graph design, graphic/web design.  
+Diocese of Ohio Mission & Demographic Research GPT — Developed a GPT-powered tool to help churches make equity-focused decisions about mission strategy based on local demographic data.
 
-### **The Owl**  
-A mindfulness AI assistant integrating DBT techniques with spiritual practices for custom meditations and emotional well-being tools.  
-- **Skills:** Python, Data curration, AI model fine-tuning, mental health NLP, chatbot UX design.  
+Sentiment, Emotion, Context (SEC) Application — Created a tool that analyzes tone, emotional resonance, and contextual sentiment to better understand social discourse and communication patterns.
 
-### **What’s Trending**  
-A tool simplifying LLM prompt creation and exploring social media trends.  
-- **Features:** Fact-based question generation, flexible templates, API integration.  
-- **Skills:** LangChain, Python scripting, API integration.
+The OWL — A trauma-informed chatbot grounded in mindfulness and DBT, offering emotional coaching and recovery support.
 
-## About Me
-I specialize in generative AI development, prompt engineering, and educational resource creation. With experience at the intersection of technology, pedagogy, and leadership, I aim to simplify complex AI concepts and design solutions that empower individuals and teams.
+Special Education Math Chatbot — Designed an AI assistant to help high school special education teachers automate IEP-aligned math planning, behavior support, and family communication.
 
-## Certifications
-* **Generative AI Specialist** – Purdue University Bootcamp (November 2024)
-* **Prompt Engineering for ChatGPT** – Vanderbilt University (September 2024)
-* **Python Data Structures** – University of Michigan (September 2024)
-* **Data-Driven Decision Making** – Google Data Analytics (September 2024)
+Each project is a reflection of my hope: that technology can be compassionate, clear, and transformative when it’s built with real people in mind.
 
-## Contact
-Let's connect! Feel free to reach out or explore more of my work:
-* **Email:** jdevin.rodgers@gmail.com
-* **GitHub:** JamesRodgersPortfolio
+Certifications
+Generative AI Applications – Purdue University (December 2024)
 
+Prompt Engineering for ChatGPT – Vanderbilt University (September 2024)
+
+Python Data Structures – University of Michigan (September 2024)
+
+Data-Driven Decision Making – Google Data Analytics (September 2024)
+
+AGS Essentials of Generative AI, Prompt Engineering, and ChatGPT – 2024
+
+Google Cloud: Introduction to Responsible Artificial Intelligence – 2024
+
+Contact
+I’m always open to thoughtful conversations, collaborations, and new ideas.
+Let’s connect:
+
+Email: jdevin.rodgers@gmail.com
+
+GitHub: JamesRodgersPortfolio
