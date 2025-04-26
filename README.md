@@ -1,4 +1,5 @@
-James Rodgers Portfolio
+##James Rodgers Portfolio##
+
 Welcome!
 Hi there — and thanks for visiting. I'm James Rodgers, a Human Data AI Tutor at xAI and someone who believes that technology should always serve people, not the other way around. With over 15 years of experience working across education, technology, and community leadership, I’m passionate about creating AI tools that are practical, ethical, and rooted in human dignity.
 
