@@ -1,0 +1,4 @@
+openai>=1.10.0
+httpx>=0.26.0
+gradio>=4.5.0
+matplotlib>=3.8.0
